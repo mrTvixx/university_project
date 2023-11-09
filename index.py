@@ -1,0 +1,9 @@
+import view_models.status_aggrement_view_model
+import view_models.type_aggrement_view_model
+import view_models.person_view_model
+import view_models.aggrement_view_model
+
+from interface.create_interface import create_interface
+
+
+create_interface()
